@@ -23,7 +23,7 @@ Estoy abierto a colaborar en proyectos relacionados con:
 
 ## 📫 Contacto
 Puedes encontrarme en:
-- **Email**: kaizoinc22@gmail.com(mailto:kaizoinc22@gmail.com)
+- **Email**: [kaizoinc22@gmail.com](mailto:kaizoinc22@gmail.com)
 - **Discord**: bbq_kaizoinc
 
 ---
