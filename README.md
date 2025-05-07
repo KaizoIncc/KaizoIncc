@@ -59,7 +59,7 @@ Soy estudiante de **Ingeniería Informática** con un gran interés en el desarr
 Puedes encontrarme y conectar a través de los siguientes medios:
 
 - 📧 Email: [kaizoinc22@gmail.com](mailto:kaizoinc22@gmail.com)
-- 💼 LinkedIn: [Aymane El Hisati El Aissati](https://www.linkedin.com/in/aymane-el-hisati-el-aissati-56105935a/)
+- 💼 LinkedIn: [KaizoInc](https://www.linkedin.com/in/aymane-el-hisati-el-aissati-56105935a/)
 - 💻 GitHub: [KaizoIncc](https://github.com/KaizoIncc)
 - 💬 Discord: `bbq_kaizoinc`
 
