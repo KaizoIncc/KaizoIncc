@@ -1,6 +1,6 @@
 <!-- Banner animado (puedes reemplazarlo por uno propio más adelante) -->
 <p align="center">
-  <img src="https://i.imgur.com/q4QvG3U.gif" alt="Banner animado" width="100%" />
+  <img src="[https://i.imgur.com/q4QvG3U.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3624cc128171271.6167a1a6ac0a6.gif)" alt="Banner animado" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy KaizoInc | Backend & Smart Contract Developer</h1>
