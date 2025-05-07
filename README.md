@@ -1,6 +1,6 @@
 <!-- Banner animado (puedes reemplazarlo por uno propio más adelante) -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3624cc128171271.6167a1a6ac0a6.gif" alt="Banner animado" width="100%" />
+  <img src="https://fgpg.com/wp-content/uploads/2022/03/Blockchain-Use-Case-Trends-1038x720-1-1038x640.jpg" alt="Banner animado" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy KaizoInc | Backend & Smart Contract Developer</h1>
