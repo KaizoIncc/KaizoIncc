@@ -81,7 +81,7 @@ Fuera del teclado, me encanta:
 
 ## 💡 Filosofía y motivación
 
-> "Cada línea de código es una oportunidad para construir el futuro, pero la verdadera magia ocurre cuando combinamos lógica con pasión." 🔥
+> "Escribo código como si fuera poesía: breve, preciso y con propósito." 🔥✨
 
 ---
 
